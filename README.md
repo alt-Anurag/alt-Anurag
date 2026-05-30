@@ -141,17 +141,6 @@ Avionics technician for DTU's drone team. Payload systems, flight controllers, a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alt-Anurag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alt-Anurag&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🎬 Beyond the Code
 
 When I'm not pushing commits, I'm probably shooting frames, scoring music, or wiring something that flies.
