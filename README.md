@@ -2,7 +2,7 @@
 <img src="https://cdn.corenexis.com/files/c/1662431720.webp" width="100%" />
 
 # Hey there, I'm Anurag 👋
-### ECE Somophore @ DTU · AI builder · Drone tinkerer · Creative
+### ECE Sophomore @ DTU · AI builder · Drone tinkerer · Creative
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag2416/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragjha7516@gmail.com)
