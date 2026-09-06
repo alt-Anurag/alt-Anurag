@@ -2,7 +2,7 @@
 <img src="banner.webp" width="100%" />
 
 # Hey there, I'm Anurag 👋
-### 3rd-Year ECE @ DTU · Mechatronics Builder · Drone Tinkerer · Creative
+### 3rd-Year ECE @ DTU · Mechatronics Builder · Research Tinkerer · Creative
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag2416/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragjha7516@gmail.com)
