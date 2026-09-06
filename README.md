@@ -40,6 +40,8 @@ Full embedded electronics & PCB stack for a SCARA manipulator — **STM32H743** 
 
 `STM32` `TMC9660` `PCB Design` `Sensor Fusion` `Embedded C`
 
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)]([https://github.com/alt-Anurag/PocketLab](https://github.com/alt-Anurag/SMOC-InkCat-Reynced))
+
 </td>
 <td width="50%">
 
