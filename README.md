@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.corenexis.com/files/c/1662431720.webp" width="100%" />
+<img src="banner.webp" width="100%" />
 
 # Hey there, I'm Anurag 👋
 ### ECE Sophomore @ DTU · AI builder · Drone tinkerer · Creative
