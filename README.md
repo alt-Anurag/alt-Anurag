@@ -71,6 +71,20 @@ Sub-₹3,000 DSO with **custom PCB**, Android/Windows interface, real-time signa
 </td>
 <td width="50%">
 
+### 🚁 UAS-DTU
+**Drone Avionics Work**
+
+Avionics technician for DTU's drone team. Payload systems, flight controllers, and things that fly.
+
+`Python` `ROS` `Embedded Systems`
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/alt-Anurag/UAS-DTU)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🔬 XrayBotix
 **AI Medical Diagnosis Platform**
 
@@ -82,8 +96,6 @@ Trained on **10,000+ X-rays** across chest, spine, dental & skull. Generates str
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat&logo=netlify)](https://xraybotix.netlify.app/)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🛍️ SnapShop
@@ -94,18 +106,6 @@ Built with **CLIP embeddings + LLMs** over a 40K+ product database. Find & buy a
 `Python` `CLIP` `LLMs` `Web Scraping` `FastAPI`
 
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/alt-Anurag/SnapShop)
-
-</td>
-<td width="50%">
-
-### 🚁 UAS-DTU
-**Drone Avionics Work**
-
-Avionics technician for DTU's drone team. Payload systems, flight controllers, and things that fly.
-
-`Python` `ROS` `Embedded Systems`
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/alt-Anurag/UAS-DTU)
 
 </td>
 </tr>
