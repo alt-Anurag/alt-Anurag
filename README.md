@@ -160,7 +160,7 @@ Built with **CLIP embeddings + LLMs** over a 40K+ product database. Find & buy a
 
 | 🏅 | Achievement |
 |---|---|
-| 🚀 | **Team InkCat-SMOC** — Shortlisted for ADI Innovation 2026, one of only 32 teams selected acrossthe country|
+| 🚀 | **Team InkCat-SMOC** — Shortlisted for ADI Innovation 2026, one of only 32 teams selected across the country|
 | 🎓 | **Dell Aspire Scholar** — Top 120 students in Delhi (Michael & Susan Dell Foundation) |
 | 📐 | **JEE Main 98.97 percentile** · JEE Advanced AIR 9723 |
 | 🥉 | **Samsung Galaxy AI Treasure Hunt** — Rank 3 |
