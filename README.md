@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag2416/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragjha7516@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anurag-dtu-portfolio.pages.dev/)
 
 </div>
 
