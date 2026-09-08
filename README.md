@@ -1,7 +1,7 @@
 <div align="center">
 <img src="banner.webp" width="100%" />
 
-# Hey there, I'm Anurag 👋
+# hey peeps, I'm Anurag :)
 ### 3rd-Year ECE @ DTU · Mechatronics Builder · Research Tinkerer · Creative
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag2416/)
