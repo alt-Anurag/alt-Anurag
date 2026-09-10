@@ -17,7 +17,7 @@
 ```python
 anurag = {
     "degree"    : "B.Tech ECE (ML Specialization) @ DTU '28",
-    "cgpa"      : "8.56 / 10 · Top 15% of dept",
+    "cgpa"      : "8.54 / 10 · Top 15% of dept",
     "vibe"      : ["mechatronics", "prompt engineering", "drones", "hardware"],
     "currently" : "Building things that shouldn't exist yet",
     "fun_fact"  : "Reached 100K+ viewers through storytelling. Also solder PCBs."
