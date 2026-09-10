@@ -35,7 +35,7 @@ anurag = {
 <td width="50%">
 
 ### 🦾 InkCat-SMOC
-**5-DOF SCARA Design · ADI Anveshan 2026**
+**5-DOF Self-Calibrating Modular SCARA Design · ADI Anveshan 2026**
 
 Full embedded electronics & PCB stack for a SCARA manipulator — **STM32H743** main controller, **STM32G431** actuator nodes, **TMC9660** FOC drivers, and IMU/optical sensor fusion (UKF/EKF) with ADRC control.
 
